@@ -6,7 +6,7 @@ Machine Learning Engineer & AI Graduate | Published researcher in NLP | Turning 
 - **MSc in Artificial Intelligence from Queen’s University Belfast (Distinction)** <br>
 Specialized in data science, predictive analytics, intelligent systems & ML deployment<br>
 
-- **B.Tech in Information Technology from AKTU (First Class)** <br>
+- **B.Tech in Information Technology from AKTU (Distinction)** <br>
 Academic foundation in software development, algorithms & data engineering
 
 ### 💻 Languages
