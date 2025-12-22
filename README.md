@@ -2,7 +2,7 @@ Hi, I'm Shirin 👋
 
 Machine Learning Engineer & AI Graduate | Published researcher in NLP | Turning complex data into insights, predictive analytics, and real-world decision intelligence
 
-🎓 **Education** <br>
+### 🎓 **Education** <br>
 - **MSc in Artificial Intelligence from Queen’s University Belfast (Distinction)** <br>
 Specialized in data science, predictive analytics, intelligent systems & ML deployment<br>
 
