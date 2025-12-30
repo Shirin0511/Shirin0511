@@ -35,6 +35,10 @@ Academic foundation in software development, algorithms & data engineering
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+## 📄 Research
+- Published NLP research focused on text analysis and intelligent systems.
+- Link: https://link.springer.com/chapter/10.1007/978-981-16-1502-3_11
+  
 ## 🔍 Currently Seeking
 Entry-level to mid-level roles in:
 - Machine Learning Engineer
