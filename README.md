@@ -46,7 +46,5 @@ Entry-level to mid-level roles in:
 - Data Scientist
 - Applied AI / GenAI Engineer
 
-Open to roles across India & remote opportunities.
-
 
 
