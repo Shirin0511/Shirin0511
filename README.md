@@ -35,6 +35,14 @@ Academic foundation in software development, algorithms & data engineering
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+## 🔍 Currently Seeking
+Entry-level to mid-level roles in:
+- Machine Learning Engineer
+- NLP / AI Engineer
+- Data Scientist
+- Applied AI / GenAI Engineer
+
+Open to roles across India & remote opportunities.
 
 
 
