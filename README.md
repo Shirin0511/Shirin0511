@@ -46,6 +46,4 @@ Entry-level to mid-level roles in:
 - Data Scientist
 - Applied AI / GenAI Engineer
 
-![Shirin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirin0511&show_icons=true&theme=default)
-
 
