@@ -42,8 +42,9 @@ Academic foundation in software development, algorithms & data engineering
 ## 🔍 Currently Seeking
 Entry-level to mid-level roles in:
 - NLP / AI Engineer
+- Applied AI / GenAI Engineer
 - Machine Learning Engineer
 - Data Scientist
-- Applied AI / GenAI Engineer
+
 
 
