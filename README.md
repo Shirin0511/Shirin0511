@@ -22,6 +22,7 @@ Academic foundation in software development, algorithms & data engineering
 
 ### 🧠 NLP & GenAI
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-8A2BE2?style=flat-square)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?logo=python&logoColor=white)
 
