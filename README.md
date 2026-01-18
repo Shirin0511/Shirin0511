@@ -1,7 +1,6 @@
 Hi, I'm Shirin 👋
 
-MSc AI Graduate from Queen's University Belfast | Published researcher in NLP | Turning complex data into insights, predictive analytics, and real-world decision intelligence
-
+MSc AI Graduate from Queen's University Belfast | Published researcher in NLP | AI Engineer building applied ML and Intelligent Decisions Systems
 ### 🎓 **Education** <br>
 - **MSc in Artificial Intelligence from Queen’s University Belfast (Distinction)** <br>
 Specialized in data science, predictive analytics, intelligent systems & ML deployment<br>
