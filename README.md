@@ -41,7 +41,7 @@ Academic foundation in software development, algorithms & data engineering
 - Link: https://link.springer.com/chapter/10.1007/978-981-16-1502-3_11
   
 ## 🔍 Currently Seeking
-Entry-level to mid-level roles in:
+Entry-level roles in:
 - AI/ML Engineer
 - Data Scientist
 
