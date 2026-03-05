@@ -45,6 +45,11 @@ Entry-level to mid-level roles in:
 - AI/ML Engineer
 - Data Scientist
 
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/shirin-gupta-387899191/) 
+Email: shirin.gupta05@gmail.com
+
 
 
 
