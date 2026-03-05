@@ -11,7 +11,7 @@ Academic foundation in software development, algorithms & data engineering
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
 
 ### 📊 ML & Data
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
