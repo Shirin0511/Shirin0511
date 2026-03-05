@@ -49,7 +49,7 @@ Entry-level to mid-level roles in:
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shirin%20Gupta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shirin%20Gupta-blue?style=flat&logo=linkedin)](linkedin.com/in/shirin-gupta-387899191/)
 
 [![Email](https://img.shields.io/badge/Email-shirin.gupta05%40gmail.com-red?style=flat&logo=gmail)](mailto:shirin.gupta05@gmail.com)
 
