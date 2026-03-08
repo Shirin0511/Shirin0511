@@ -43,7 +43,7 @@ Academic foundation in software development, algorithms & data engineering
   
 <img src="https://github-readme-stats.vercel.app/api?username=Shirin0511&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shirin0511&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://streak-stats.demolab.com?user=Shirin0511&theme=tokyonight&hide_border=true" height="180em"/>
 
 </p>
 
