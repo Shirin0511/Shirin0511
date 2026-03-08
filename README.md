@@ -39,13 +39,9 @@ Academic foundation in software development, algorithms & data engineering
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Shirin0511&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shirin0511&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://streak-stats.demolab.com?user=Shirin0511&theme=tokyonight&hide_border=true" height="180em"/>
-
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Shirin0511&theme=tokyonight&hide_border=true)
 
 
 ## 📄 Research
