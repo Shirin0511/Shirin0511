@@ -37,6 +37,17 @@ Academic foundation in software development, algorithms & data engineering
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Shirin0511&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shirin0511&theme=tokyonight&hide_border=true" height="180em"/>
+
+</p>
+
+
 ## 📄 Research
 - Published NLP research focused on sentiment analysis of text containing slangs. Link: https://link.springer.com/chapter/10.1007/978-981-16-1502-3_11
   
