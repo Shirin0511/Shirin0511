@@ -19,17 +19,15 @@ Academic foundation in software development, algorithms & data engineering
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-4B0082?logo=python&logoColor=white)
 
 ### 🧠 NLP & GenAI
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 ![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-8A2BE2?style=flat-square)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?logo=python&logoColor=white)
-
-### 📈 Model Evaluation & Explainability
-![SHAP](https://img.shields.io/badge/SHAP-4B0082?logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?logo=python&logoColor=white)
 
 ### 🧰 Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
