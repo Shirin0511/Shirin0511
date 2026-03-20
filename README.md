@@ -49,7 +49,7 @@ Academic foundation in software development, algorithms & data engineering
 - Published NLP research focused on sentiment analysis of text containing slangs. Link: https://link.springer.com/chapter/10.1007/978-981-16-1502-3_11
   
 ## 🔍 Currently Seeking
-Entry-level to mid-level roles in:
+Entry-level to mid-level roles as:
 - AI/ML Engineer
 - Data Scientist
 
