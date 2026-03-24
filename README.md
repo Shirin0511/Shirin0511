@@ -1,6 +1,6 @@
 Hi, I'm Shirin 👋
 
-AI Engineer specializing in -
+An AI Engineer specializing in -
 - Building RAG-based systems, chatbots, and intelligent assistants  
 - Experienced in deploying AI systems using FastAPI, Docker, and cloud platforms  
 - Focused on turning AI ideas into production-ready applications
@@ -54,6 +54,6 @@ Academic foundation in software development, algorithms & data engineering
   
 ## 🔍 Currently Seeking
 Entry-level to mid-level roles as:
+- Gen AI Engineer
 - AI/ML Engineer
-- Data Scientist
 
