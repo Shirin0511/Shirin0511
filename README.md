@@ -1,6 +1,10 @@
 Hi, I'm Shirin 👋
 
-AI Engineer building applied ML and Intelligent Decisions Systems | MSc AI Graduate from Queen's University Belfast
+AI Engineer specializing in -
+- Building RAG-based systems, chatbots, and intelligent assistants  
+- Experienced in deploying AI systems using FastAPI, Docker, and cloud platforms  
+- Focused on turning AI ideas into production-ready applications
+  
 ### 🎓 **Education** <br>
 - **MSc in Artificial Intelligence from Queen’s University Belfast (Distinction)** <br>
 Specialized in data science, predictive analytics, intelligent systems & ML deployment<br>
