@@ -1,4 +1,4 @@
-<img width="979" height="452" alt="image" src="https://github.com/user-attachments/assets/335d3ba1-ba1f-44b6-b9a6-7bf9c6e885af" />Hi, I'm Shirin 👋
+Hi, I'm Shirin 👋
 
 An AI Engineer specializing in -
 - Building RAG-based systems, chatbots, and intelligent assistants  
